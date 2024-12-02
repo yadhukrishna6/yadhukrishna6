@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yadhukrishna</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate Full Stack Engineer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/yadhukrishna6](https://github.com/yadhukrishna6)
 
